@@ -8719,3 +8719,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Oct2025 21:55:45.984] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@16d4ff65[id=<null>,name=xClas06,properties={},legacy=false] (/127.48.206.10:38255): Took too long to log in
 [06Oct2025 21:55:45.985] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16d4ff65[id=<null>,name=xClas06,properties={},legacy=false] (/127.48.206.10:38255) lost connection: Took too long to log in
 [06Oct2025 21:55:46.033] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Oct2025 22:00:44.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Oct2025 22:00:44.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Oct2025 22:05:44.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Oct2025 22:05:44.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
